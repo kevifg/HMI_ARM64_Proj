@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>ControlPage.qml</file>
+        <file>SettingPage.qml</file>
+        <file>assets/homePage_background.jpg</file>
+        <file>assets/Title.png</file>
+        <file>assets/Logo.png</file>
+        <file>icons/Clear.svg</file>
+        <file>icons/Clouds.svg</file>
+        <file>icons/Drizzle.svg</file>
+        <file>icons/Rain.svg</file>
+        <file>icons/Thunder.svg</file>
+        <file>main.cpp</file>
+        <file>modbusmanager.cpp</file>
+        <file>modbusmanager.h</file>
+        <file>weathermanager.cpp</file>
+        <file>weathermanager.h</file>
+        <file>icons/Default.svg</file>
+        <file>assets/Control_bg_1.jpg</file>
+        <file>assets/nature_bg_mountains.PNG</file>
+        <file>assets/nature_bg_forest.PNG</file>
+        <file>langs/app_zh_TW.qm</file>
+        <file>langs/app_zh_TW.ts</file>
+        <file>icons/arrow_up.svg</file>
+        <file>icons/arrow_down.svg</file>
+        <file>SettingLock.qml</file>
+
+        <file>languagemanager.cpp</file>
+        <file>languagemanager.h</file>
+        <file>networkhelper.cpp</file>
+        <file>networkhelper.h</file>
+    </qresource>
+</RCC>
